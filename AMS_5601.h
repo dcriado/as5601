@@ -1,5 +1,5 @@
 /****************************************************
-/* AMS 5601 class for Arduino platform
+/* AMS 5601 class for Arduino
 /* Author: Tom Denton
 /* Edit from 5600 to 5601: David Criado
 /* Date: 13 Mar 2017
